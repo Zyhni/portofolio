@@ -163,7 +163,6 @@ export const listProyek = [
   },
   {
     id: 2,
-    image: Proyek2,
     title: "Dashboard UPT Informatika",
     subtitle: "AUPT Informatics is a web-based platform built with Spring Boot Java...",
     fullDescription:"UPT Informatics is a web-based platform built with Spring Boot Java that streamlines project management, organization, and monitoring within the Informatics Department of Astra Polytechnic, supporting academic staff in achieving efficient and structured project oversight.",
@@ -174,7 +173,6 @@ export const listProyek = [
   },
   {
     id: 3,
-    image: Proyek3,
     title: "Internak (Livestock Monitoring Application)",
     subtitle: "Internak is an Android application designed to help farmers...",
     fullDescription:"Internak is an Android application designed to help farmers manage their livestock easily. It allows users to monitor animal health, feeding schedules, and farm conditions in real time. The app helps improve efficiency in farm management by providing clear data and automatic monitoring features.",
@@ -185,7 +183,6 @@ export const listProyek = [
   },
   {
     id: 4,
-    image: Proyek4,
     title: "Dynamic QRIS Generator",
     subtitle: "This project is a web-based system that generates dynamic QRIS payment codes...",
     fullDescription:"This project is a web-based system that generates dynamic QRIS payment codes using the CR16 method. The system creates QR codes in real-time with unique transaction amounts and IDs, ensuring secure and traceable payments.",
@@ -196,7 +193,6 @@ export const listProyek = [
   },
     {
     id: 5,
-    image: Proyek5,
     title: "System HR People & Training Development",
     subtitle: "This system is designed to enable the HR Department to manage employee...",
     fullDescription:"This system is designed to enable the HR Department to manage employee competencies and help employees track the progress of their completed training programs. The system was developed in collaboration with PT Aisin Indonesia Automotive in Karawang, ensuring flexibility and practical implementation.",
@@ -207,7 +203,6 @@ export const listProyek = [
   },
   {
     id: 6,
-    image: Proyek6,
     title: "Roblox Top-up Website",
     subtitle: "This personally developed Roblox Top-Up Website integrates automatic...",
     fullDescription:"This personally developed Roblox Top-Up Website integrates automatic QRIS payments with Roblox.API and Midtrans, enabling seamless and secure Robux top-up transactions.",
