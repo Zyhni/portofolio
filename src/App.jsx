@@ -100,7 +100,7 @@ function App() {
               contactText="Contact Me"
               avatarUrl="./assets/Faiz.png"
               showUserInfo={true}
-              enableTilt={true}zz
+              enableTilt={true}
               enableMobileTilt={false}
               onContactClick={() => console.log('Contact clicked')}
             />
